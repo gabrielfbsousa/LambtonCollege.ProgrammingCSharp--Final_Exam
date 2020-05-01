@@ -1,0 +1,77 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ResGen.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ResGen.write.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\GenerateResource.write.1.tlog
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\Project 8-1 (Score Calculator)\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculator.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculator.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculator.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Users\LC_image\Downloads\Test02\Exam\Chapter 08\ScoreCalculator with array\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache

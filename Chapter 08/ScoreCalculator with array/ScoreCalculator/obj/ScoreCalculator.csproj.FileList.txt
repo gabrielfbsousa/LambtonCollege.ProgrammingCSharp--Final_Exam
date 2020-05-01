@@ -1,0 +1,8 @@
+bin\Debug\ScoreCalculator.exe
+bin\Debug\ScoreCalculator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScoreCalculator.Form1.resources
+obj\Debug\ScoreCalculator.Properties.Resources.resources
+obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+obj\Debug\ScoreCalculator.exe
+obj\Debug\ScoreCalculator.pdb

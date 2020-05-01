@@ -1,0 +1,8 @@
+bin\Debug\Reservations.exe
+bin\Debug\Reservations.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Reservations.Form1.resources
+obj\Debug\Reservations.Properties.Resources.resources
+obj\Debug\Reservations.csproj.GenerateResource.Cache
+obj\Debug\Reservations.exe
+obj\Debug\Reservations.pdb

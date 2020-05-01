@@ -1,0 +1,8 @@
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculatorArray.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculatorArray.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculatorArray.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorArray.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorArray.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorArray.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorArray.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorArray.pdb
